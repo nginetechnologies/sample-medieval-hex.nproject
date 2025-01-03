@@ -1,0 +1,34 @@
+{
+    "guid": "01942df1-414c-77b5-d16a-b706b9c0a37a",
+    "source": "../SK_Knight.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "01942df1-4152-7ead-b344-6ed05b7de793",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Knight"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01942df1-4157-7694-035c-39737b08cbd6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Knight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01942df1-4157-749a-e33e-0034c39222fb"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "01942df1-414c-77b5-d16a-b706b9c0a37a"
+    },
+    "dependencies": [
+        "01942df1-4157-749a-e33e-0034c39222fb"
+    ]
+}

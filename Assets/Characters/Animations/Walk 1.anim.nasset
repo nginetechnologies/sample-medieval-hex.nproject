@@ -1,0 +1,19 @@
+{
+    "source": "A_Walk_1.fbx",
+    "skeleton": "",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": ""
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "9fea8f08-8d49-416d-b184-581e8a4f80a7"
+        }
+    ],
+    "guid": "9fea8f08-8d49-416d-b184-581e8a4f80a7",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "01942580-5237-70b2-1411-d116ad8a8e62"
+    ]
+}

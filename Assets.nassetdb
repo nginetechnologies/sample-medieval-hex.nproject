@@ -6864,6 +6864,321 @@
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
     },
+    "01942dd6-4e34-7ba7-fe04-38d1a299bd88": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Medieval_Hex_Enviro.tex.nasset"
+    },
+    "01942dd6-4fb0-78a0-dcfc-9993ba6f1df6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Medieval_Hex_EnviroDiffuse.tex.nasset"
+    },
+    "01942dd6-4fed-7d85-f7c5-a20fc48e0ae4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Medieval_Hex_EnviroSpecular.tex.nasset"
+    },
+    "01942df0-c757-76a5-9c4f-eee977d32e5c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Scout.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "01942df0-c765-7f8c-4784-57043fda2226"
+        ]
+    },
+    "01942df0-c765-7686-eb17-18424d205c42": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Scout.scene.nasset/Scout.mesh.nasset/Scout Rogue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942df0-c766-728a-b0ac-75356b49cff0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942df0-c765-7f8c-4784-57043fda2226": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Scout.scene.nasset/Scout.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01942df0-c766-728a-b0ac-75356b49cff0",
+            "01942df0-c765-7686-eb17-18424d205c42",
+            "01942df0-c772-73ae-68f7-7f73b07f85b3",
+            "01942df1-271e-78ad-e882-c20a40a17fd5",
+            "f9d20852-14bc-4d45-8238-2dffa12df2f4",
+            "9fea8f08-8d49-416d-b184-581e8a4f80a7",
+            "1d697fd2-de02-4601-9a1b-23bf2fd0edbe",
+            "5f8b9a08-f6eb-49f0-ab2f-14e44bf91ee6",
+            "1ec92af0-5379-4106-add2-31051f42aaad",
+            "844f444e-2fb7-49ee-aa88-f9069bcbb4c1"
+        ]
+    },
+    "01942df0-c766-728a-b0ac-75356b49cff0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Rogue.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "01942df0-c772-7793-febd-ef6e789cc8fb"
+        ]
+    },
+    "01942df0-c772-73ae-68f7-7f73b07f85b3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Scout.scene.nasset/Scout.mesh.nasset/Scout Rogue.meshskin.nasset",
+        "dependencies": [
+            "01942df0-c765-7686-eb17-18424d205c42",
+            "01942df0-c772-72a1-8a90-cb61a4ea59f3",
+            "01942df0-c766-728a-b0ac-75356b49cff0"
+        ]
+    },
+    "01942df0-c772-7793-febd-ef6e789cc8fb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Rogue_D.tex.nasset"
+    },
+    "01942df0-f531-798c-e752-890b4a51c380": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Knight_D.tex.nasset"
+    },
+    "01942df0-f531-7e8f-0ee9-e6e17dd03561": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Barbarian_D.tex.nasset"
+    },
+    "01942df0-f531-7f97-6ac8-f60f28f5b3ec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Mage_D.tex.nasset"
+    },
+    "01942df1-0d25-70b1-8cdf-8b90dda45780": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Rogue_Kay.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "01942df1-0d30-7794-cdfe-a47b22e8aed0"
+        ]
+    },
+    "01942df1-0d30-7794-cdfe-a47b22e8aed0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Rogue_Kay.scene.nasset/Rogue.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01942df0-c766-728a-b0ac-75356b49cff0",
+            "01942df1-0d30-7c95-d05f-6cbad90c0479",
+            "01942df1-0d3c-7bb4-0ef8-c173013d9d44",
+            "01942df1-271e-78ad-e882-c20a40a17fd5",
+            "f9d20852-14bc-4d45-8238-2dffa12df2f4",
+            "9fea8f08-8d49-416d-b184-581e8a4f80a7",
+            "1d697fd2-de02-4601-9a1b-23bf2fd0edbe",
+            "5f8b9a08-f6eb-49f0-ab2f-14e44bf91ee6",
+            "1ec92af0-5379-4106-add2-31051f42aaad",
+            "844f444e-2fb7-49ee-aa88-f9069bcbb4c1"
+        ]
+    },
+    "01942df1-0d30-7c95-d05f-6cbad90c0479": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Rogue_Kay.scene.nasset/Rogue.mesh.nasset/Rogue Rogue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942df0-c766-728a-b0ac-75356b49cff0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942df1-0d3c-7bb4-0ef8-c173013d9d44": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Rogue_Kay.scene.nasset/Rogue.mesh.nasset/Rogue Rogue.meshskin.nasset",
+        "dependencies": [
+            "01942df1-0d30-7c95-d05f-6cbad90c0479",
+            "01942df1-0d3c-76b3-718b-2b90a9b2c8de",
+            "01942df0-c766-728a-b0ac-75356b49cff0"
+        ]
+    },
+    "01942df1-1b7b-799d-391e-a1f033961cf5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Mage.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "01942df1-1b85-7a86-8ebc-de075323220b"
+        ]
+    },
+    "01942df1-1b85-7a86-8ebc-de075323220b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Mage.scene.nasset/Mage.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01942df1-1b86-7996-a5ec-988168154060",
+            "01942df1-1b85-7bb9-0287-ee69fcbcd9e6",
+            "01942df1-1b93-7982-381e-85e3d2b38bce",
+            "01942df1-1b93-7480-d733-e9e77c69c549",
+            "f9d20852-14bc-4d45-8238-2dffa12df2f4",
+            "9fea8f08-8d49-416d-b184-581e8a4f80a7",
+            "1d697fd2-de02-4601-9a1b-23bf2fd0edbe",
+            "5f8b9a08-f6eb-49f0-ab2f-14e44bf91ee6",
+            "1ec92af0-5379-4106-add2-31051f42aaad",
+            "844f444e-2fb7-49ee-aa88-f9069bcbb4c1"
+        ]
+    },
+    "01942df1-1b85-7bb9-0287-ee69fcbcd9e6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Mage.scene.nasset/Mage.mesh.nasset/Mage Mage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942df1-1b86-7996-a5ec-988168154060",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942df1-1b86-7996-a5ec-988168154060": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Mage.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "01942df0-f531-7f97-6ac8-f60f28f5b3ec"
+        ]
+    },
+    "01942df1-1b93-7982-381e-85e3d2b38bce": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Mage.scene.nasset/Mage.mesh.nasset/Mage Mage.meshskin.nasset",
+        "dependencies": [
+            "01942df1-1b85-7bb9-0287-ee69fcbcd9e6",
+            "01942df1-1b93-7480-d733-e9e77c69c549",
+            "01942df1-1b86-7996-a5ec-988168154060"
+        ]
+    },
+    "01942df1-2707-7990-8fdc-c03447d16711": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Barbarian.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "01942df1-2712-778e-9d0f-39fbd2bf6f81"
+        ]
+    },
+    "01942df1-2712-768b-063f-223fcafa3bd9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Barbarian.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "01942df0-f531-7e8f-0ee9-e6e17dd03561"
+        ]
+    },
+    "01942df1-2712-778e-9d0f-39fbd2bf6f81": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Barbarian.scene.nasset/Barbarian.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01942df1-2712-768b-063f-223fcafa3bd9",
+            "01942df1-2712-7f8c-d23e-c77b15cfe1f3",
+            "01942df1-271e-7987-d07f-ccb5b8ab0836",
+            "01942df1-271e-78ad-e882-c20a40a17fd5",
+            "f9d20852-14bc-4d45-8238-2dffa12df2f4",
+            "9fea8f08-8d49-416d-b184-581e8a4f80a7",
+            "1d697fd2-de02-4601-9a1b-23bf2fd0edbe",
+            "5f8b9a08-f6eb-49f0-ab2f-14e44bf91ee6",
+            "1ec92af0-5379-4106-add2-31051f42aaad",
+            "844f444e-2fb7-49ee-aa88-f9069bcbb4c1"
+        ]
+    },
+    "01942df1-2712-7f8c-d23e-c77b15cfe1f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Barbarian.scene.nasset/Barbarian.mesh.nasset/Barbarian Barbarian.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942df1-2712-768b-063f-223fcafa3bd9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942df1-271e-78ad-e882-c20a40a17fd5": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/SK_Barbarian.scene.nasset/Barbarian.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "01942df1-271e-7987-d07f-ccb5b8ab0836": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Barbarian.scene.nasset/Barbarian.mesh.nasset/Barbarian Barbarian.meshskin.nasset",
+        "dependencies": [
+            "01942df1-2712-7f8c-d23e-c77b15cfe1f3",
+            "01942df1-271e-78ad-e882-c20a40a17fd5",
+            "01942df1-2712-768b-063f-223fcafa3bd9"
+        ]
+    },
+    "01942df1-414c-77b5-d16a-b706b9c0a37a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Knight.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "01942df1-4157-749a-e33e-0034c39222fb"
+        ]
+    },
+    "01942df1-4157-7099-e117-31445ceaa0ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Knight.scene.nasset/Knight.mesh.nasset/Knight Knight.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01942df1-4157-76b4-daf0-d5b4375c6741",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942df1-4157-749a-e33e-0034c39222fb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Knight.scene.nasset/Knight.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01942df1-4157-76b4-daf0-d5b4375c6741",
+            "01942df1-4157-7099-e117-31445ceaa0ff",
+            "01942df1-4163-78be-c3af-a9d214b4ec36",
+            "01942df1-271e-78ad-e882-c20a40a17fd5",
+            "f9d20852-14bc-4d45-8238-2dffa12df2f4",
+            "9fea8f08-8d49-416d-b184-581e8a4f80a7",
+            "1d697fd2-de02-4601-9a1b-23bf2fd0edbe",
+            "5f8b9a08-f6eb-49f0-ab2f-14e44bf91ee6",
+            "1ec92af0-5379-4106-add2-31051f42aaad",
+            "844f444e-2fb7-49ee-aa88-f9069bcbb4c1"
+        ]
+    },
+    "01942df1-4157-76b4-daf0-d5b4375c6741": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Knight.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "01942df0-f531-798c-e752-890b4a51c380"
+        ]
+    },
+    "01942df1-4163-78be-c3af-a9d214b4ec36": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Knight.scene.nasset/Knight.mesh.nasset/Knight Knight.meshskin.nasset",
+        "dependencies": [
+            "01942df1-4157-7099-e117-31445ceaa0ff",
+            "01942df1-4163-7d99-85cd-67c64894679f",
+            "01942df1-4157-76b4-daf0-d5b4375c6741"
+        ]
+    },
     "07cc6ed7-df78-4e7e-898d-5cce35641033": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6874,7 +7189,7 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
-            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+            "01942df1-1b85-7a86-8ebc-de075323220b"
         ]
     },
     "118d72a0-886d-4b66-b7a7-bbb2b8982179": {
@@ -6896,12 +7211,28 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
-            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+            "01942df1-4157-749a-e33e-0034c39222fb"
         ]
     },
     "18c2bfd9-b3e9-44d4-91e0-9da899e2634b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Thumbnails/Mage.scene.nasset.tex.nasset"
+    },
+    "1d697fd2-de02-4601-9a1b-23bf2fd0edbe": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Run 1.anim.nasset",
+        "dependencies": [
+            "01942580-5237-70b2-1411-d116ad8a8e62"
+        ]
+    },
+    "1ec92af0-5379-4106-add2-31051f42aaad": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump Loop.anim.nasset",
+        "dependencies": [
+            "01942580-5237-70b2-1411-d116ad8a8e62"
+        ]
     },
     "57a10e56-9499-4fde-82a1-86620046626a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -6913,7 +7244,15 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
-            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+            "01942df1-2712-778e-9d0f-39fbd2bf6f81"
+        ]
+    },
+    "5f8b9a08-f6eb-49f0-ab2f-14e44bf91ee6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump Start.anim.nasset",
+        "dependencies": [
+            "01942580-5237-70b2-1411-d116ad8a8e62"
         ]
     },
     "691b730b-9534-449d-880c-2ff715fed09a": {
@@ -6929,6 +7268,14 @@
             "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
         }
     },
+    "844f444e-2fb7-49ee-aa88-f9069bcbb4c1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Jump End.anim.nasset",
+        "dependencies": [
+            "01942580-5237-70b2-1411-d116ad8a8e62"
+        ]
+    },
     "97253633-ee23-4af4-a333-89fdd1795da6": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6939,7 +7286,15 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
-            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+            "01942df1-0d30-7794-cdfe-a47b22e8aed0"
+        ]
+    },
+    "9fea8f08-8d49-416d-b184-581e8a4f80a7": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Walk 1.anim.nasset",
+        "dependencies": [
+            "01942580-5237-70b2-1411-d116ad8a8e62"
         ]
     },
     "a43860f4-f257-49ad-b10b-9611c19feb7c": {
@@ -6952,7 +7307,7 @@
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ],
         "dependencies": [
-            "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+            "01942df0-c765-7f8c-4784-57043fda2226"
         ]
     },
     "af08451c-47cf-40f6-a200-0c62bd5e0cc1": {
@@ -6962,6 +7317,20 @@
     "c940c71e-28a1-4c02-b9c5-a41240afefa9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Thumbnails/Scout.scene.nasset.tex.nasset"
+    },
+    "e6b543f6-738b-412c-a25c-465bc947318f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Materials/M_Medieval_Hex_Skybox.mtli.nasset",
+        "thumbnail": "d3238708-0f67-29b2-67c8-0d8693835786"
+    },
+    "f9d20852-14bc-4d45-8238-2dffa12df2f4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Idle.anim.nasset",
+        "dependencies": [
+            "01942580-5237-70b2-1411-d116ad8a8e62"
+        ]
     },
     "fede4547-df82-4894-802e-8ba0772c3370": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
