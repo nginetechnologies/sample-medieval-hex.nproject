@@ -7223,7 +7223,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animations/Run 1.anim.nasset",
         "dependencies": [
-            "01942580-5237-70b2-1411-d116ad8a8e62"
+            "01942df1-271e-78ad-e882-c20a40a17fd5"
         ]
     },
     "1ec92af0-5379-4106-add2-31051f42aaad": {
@@ -7231,7 +7231,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animations/Jump Loop.anim.nasset",
         "dependencies": [
-            "01942580-5237-70b2-1411-d116ad8a8e62"
+            "01942df1-271e-78ad-e882-c20a40a17fd5"
         ]
     },
     "57a10e56-9499-4fde-82a1-86620046626a": {
@@ -7252,7 +7252,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animations/Jump Start.anim.nasset",
         "dependencies": [
-            "01942580-5237-70b2-1411-d116ad8a8e62"
+            "01942df1-271e-78ad-e882-c20a40a17fd5"
         ]
     },
     "691b730b-9534-449d-880c-2ff715fed09a": {
@@ -7273,7 +7273,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animations/Jump End.anim.nasset",
         "dependencies": [
-            "01942580-5237-70b2-1411-d116ad8a8e62"
+            "01942df1-271e-78ad-e882-c20a40a17fd5"
         ]
     },
     "97253633-ee23-4af4-a333-89fdd1795da6": {
@@ -7294,7 +7294,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animations/Walk 1.anim.nasset",
         "dependencies": [
-            "01942580-5237-70b2-1411-d116ad8a8e62"
+            "01942df1-271e-78ad-e882-c20a40a17fd5"
         ]
     },
     "a43860f4-f257-49ad-b10b-9611c19feb7c": {
@@ -7329,7 +7329,7 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Animations/Idle.anim.nasset",
         "dependencies": [
-            "01942580-5237-70b2-1411-d116ad8a8e62"
+            "01942df1-271e-78ad-e882-c20a40a17fd5"
         ]
     },
     "fede4547-df82-4894-802e-8ba0772c3370": {

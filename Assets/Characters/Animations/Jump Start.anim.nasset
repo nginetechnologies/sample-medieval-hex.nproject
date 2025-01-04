@@ -1,9 +1,9 @@
 {
     "source": "A_Jump_Start.fbx",
-    "skeleton": "",
+    "skeleton": "01942df1-271e-78ad-e882-c20a40a17fd5",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "01942df1-271e-78ad-e882-c20a40a17fd5"
     },
     "data_components": [
         {
@@ -14,6 +14,7 @@
     "guid": "5f8b9a08-f6eb-49f0-ab2f-14e44bf91ee6",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "01942580-5237-70b2-1411-d116ad8a8e62"
-    ]
+        "01942df1-271e-78ad-e882-c20a40a17fd5"
+    ],
+    "instanceGuid": "01942ec9-3b59-7884-cba5-a107c74f1f3a"
 }
