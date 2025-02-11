@@ -1,13 +1,13 @@
 {
     "guid": "e6b543f6-738b-412c-a25c-465bc947318f",
-    "material": "d5e247de-909a-43d2-a09f-b711e093d5cb",
-    "descriptor_contents": [
+    "material": "d3b37153-2dce-4574-a8f1-f118df0e8e30",
+    "push_constants": [
         {
-            "texture": "0193d067-6d75-709c-f115-12241e56489a",
-            "address_mode": 0
+            "type": 0,
+            "color": "#87CEEB"
         }
     ],
-    "thumbnailGuid": "d3238708-0f67-29b2-67c8-0d8693835786",
+    "thumbnailGuid": "1e71738a-10e5-7160-578f-434ede5c7576",
     "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f"
 }

@@ -1,4 +1,4 @@
-{  
+{
     "0193b262-beeb-769c-b95a-c71252c02f3e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -7322,7 +7322,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Materials/M_Medieval_Hex_Skybox.mtli.nasset",
-        "thumbnail": "d3238708-0f67-29b2-67c8-0d8693835786"
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
     },
     "f9d20852-14bc-4d45-8238-2dffa12df2f4": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
